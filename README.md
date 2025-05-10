@@ -19,7 +19,7 @@ Puedes descargar la versión compilada desde la sección [Releases](https://gith
 - Windows 10/11
 - Idioma de Windows español españa.
 
-## 🚀 Ejecución
+##Ejecución
 
 1. Descarga el archivo `.exe` desde la sección de Releases.
 2. Haz doble clic en el archivo.
